@@ -1,6 +1,6 @@
 👋 Yoo, monkey! I'm ItzErpandX!
 
-```python
+```yml
 🌟 Interests:
 - Software Engineering 🧑‍💻
 - Humanoid Engineering 🤖
