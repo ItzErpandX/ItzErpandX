@@ -1,7 +1,7 @@
 👋 Yoo, monkey! I'm ItzErpandX!
 
 📬 How to Contact:
-- Create a ticket in my [discord server](https://discord.gg/poisonbox.eu)
+- Create a ticket in my [discord server](https://discord.gg/poisonbox)
 
 ```yml
 🌟 Interests:
