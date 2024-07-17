@@ -1,5 +1,6 @@
-👋 Yoo, manki! I'm ItzErpandX!
+👋 Yoo, monkey! I'm ItzErpandX!
 
+```python
 🌟 Interests:
 - Software Engineering 🧑‍💻
 - Humanoid Engineering 🤖
@@ -36,3 +37,5 @@
 
 🎉 Fun Fact:
 - I am a panda 🐼
+```
+``
