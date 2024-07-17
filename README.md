@@ -1,5 +1,8 @@
 👋 Yoo, monkey! I'm ItzErpandX!
 
+📬 How to Contact:
+- Create a ticket in my [discord server](https://discord.gg/poisonbox.eu)
+
 ```yml
 🌟 Interests:
 - Software Engineering 🧑‍💻
@@ -13,9 +16,6 @@
 - Java 🍵
 - Skript 📜
 - Python 🐍
-
-📬 How to Contact:
-- Create a ticket in my [discord server](https://discord.gg/poisonbox.eu)
 
 🕵️‍♂️ Pronouns:
 - He/Him/His ♂️
@@ -38,4 +38,3 @@
 🎉 Fun Fact:
 - I am a panda 🐼
 ```
-``
