@@ -10,3 +10,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height=32 width=32>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height=32 width=32>
 </div>
+
+[![ItzErpandX's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=ItzErpandX.readme.visitor-badge)](https://github.com/ItzErpandX/) 
